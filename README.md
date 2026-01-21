@@ -1,62 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=02569B&height=200&section=header&text=Hello%20I'm%20Sadek%20Mohamed&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/dev-setup.gif" width="80%" alt="Developer Workspace"/>
 
-<br>
+<h1>Hi 👋, I'm Sadek Mohamed</h1>
+<h3>Junior Mobile & Backend Developer | Flutter Specialist</h3>
 
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/man-working-on-mobile-app-development-illustration-download-in-svg-png-gif-file-formats--developer-logo-software-business-pack-illustrations-5381710.png" width="50%"/>
+<p>
+🚀 Building mobile applications with Flutter <br>
+🧠 Passionate about backend, systems & open source <br>
+💼 Open for freelancing opportunities
+</p>
 
-<br>
-
-### 📱 Flutter Developer | Mobile Solutions Architect 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sadek-Mohamed&style=flat-square&color=02569B&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sadek-blue?style=flat-square&logo=linkedin)](your-linkedin-link)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-0088cc?style=flat-square&logo=telegram)](https://t.me/your_username)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange)
+![GitHub Followers](https://img.shields.io/github/followers/your-username?style=flat)
+![Stars](https://img.shields.io/github/stars/your-username?style=flat)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 Tech Stack & Tools
 
-- 🚀 I specialize in building cross-platform applications using **Flutter & Dart**.
-- 🛠️ Deep understanding of **Data Structures** and **Algorithms** to write clean, efficient code.
-- 💾 Experienced in managing data with **SQL Databases** and real-time solutions with **Firebase**.
-- 🎨 Passionate about turning UI/UX designs into functional, beautiful mobile apps.
+### 📱 Mobile & Backend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
----
+### 🧠 Programming Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white)
 
-### 🛠️ My Tech Stack
+### 🌐 Web Basics
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
-| **Core Programming** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Backend & DB** | ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Web Basics** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadek-Mohamed&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadek-Mohamed&layout=compact&theme=tokyonight" width="48%"/>
-</div>
+### ⚙️ Tools & Environment
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 ---
 
-### ⚡ Fun Fact
+## 🧩 About Me (Code Style)
+
 ```dart
-void main() {
-  var sadek = Developer(
-    status: "Coding",
-    fuel: "Coffee",
-    hobby: "Learning new Tech"
-  );
-  
-  if (sadek.problemDetected) {
-     sadek.useInductiveReasoning(); // حل المشكلات بذكاء!
-  }
+class SadekMohamed extends Developer {
+  final String role = "Junior Flutter Developer";
+
+  final List<String> interests = [
+    "Mobile Development",
+    "Backend Systems",
+    "Freelancing",
+    "Open Source"
+  ];
+
+  final Map<String, List<String>> skills = {
+    "Mobile": ["Flutter", "Dart"],
+    "Backend": ["Node.js", "Firebase"],
+    "Languages": ["Python", "Java", "C/C++", "SQL"],
+    "Concepts": ["OOP", "Data Structures"],
+    "Tools": ["Git", "VS Code"]
+  };
 }
