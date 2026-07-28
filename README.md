@@ -10,10 +10,6 @@ I build scalable mobile applications using <strong>Flutter & Dart</strong>,
 with a strong foundation in backend systems, data structures, and clean code.
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange)
-![GitHub Followers](https://img.shields.io/github/followers/your-username?style=flat)
-![Stars](https://img.shields.io/github/stars/your-username?style=flat)
-
 </div>
 
 ---
