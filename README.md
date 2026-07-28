@@ -62,6 +62,7 @@ class SadekMohamed extends Developer {
   final String role = "Junior Flutter Developer";
 
   final Map<String, List<String>> techStack = {
+    "Wep": ["HTML5", "CSS3", "JavaScript"],
     "Mobile": ["Flutter", "Dart"],
     "Backend": ["Node.js", "Firebase"],
     "Languages": ["Python", "Java", "C/C++", "SQL"],
